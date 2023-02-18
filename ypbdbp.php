@@ -3,12 +3,9 @@
 /**
  * Plugin Name: YITH Product Brand Description Below Products
  * Description: A plugin that displays the brand description below the brand products in WordPress taxonomy.
- * Author: ایده پردازان مادیتا
+ * Author: madata.ir (Ramin Fahimi Nejad)
  * Version: 1.0
  * Author URI: https://madata.ir/
- * Plugin URI: https://madata.ir/
- * Author URI: https://madata.ir/
- * Text Domain: https://madata.ir/ypbdbp
  */
 
 add_action('woocommerce_after_shop_loop', 'yith_product_brand_description');
